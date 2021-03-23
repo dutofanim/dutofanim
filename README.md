@@ -2,7 +2,7 @@
  <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-### Hello World 👋 I am [Carlos Eduardo.](https://github.com/dutofanim)
+### Hello 🌍! I am [Carlos Eduardo](https://github.com/dutofanim)
 
 - 📰 I’m currently learning **HTML, CSS and Javascript**
 - 💬 Ask me about **anything**
