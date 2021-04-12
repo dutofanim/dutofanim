@@ -4,7 +4,7 @@
 
 ### Hello 🌍! I am [Carlos Eduardo](https://github.com/dutofanim)
 
-- 📰 I’m currently learning **HTML, CSS and Javascript**
+- 📰 I’m currently learning **HTML, CSS, Javascript and 'C'**
 - 💬 Ask me about **anything**
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -13,6 +13,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%20)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
