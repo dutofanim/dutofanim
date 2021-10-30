@@ -3,15 +3,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Eduardo Tofanim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dutofanim&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Future Software developer 
+- :computer: Computer engineer & Future Software developer :sunny:
 
-- 🔭 Currently studying at [Rocketseat](https://github.com/Rocketseat)
+- :school_satchel: Currently studying at [Rocketseat :rocket:](https://github.com/Rocketseat)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/dutofanim)
+- :file_folder: All of my projects are available at [Github :octocat:](https://github.com/dutofanim)
 
-- 💬 The __best things__ in life __are not things__
+- :speech_balloon: The __best things__ in life __are not things__
 
-- ⚡ Fun fact: The Firefox logo isn't a fox… it's a <a href="https://en.wikipedia.org/wiki/Red_panda" target="_blank">red panda!</a>
+- :zap: Fun fact: The Firefox logo isn't a fox… it's a <a href="https://en.wikipedia.org/wiki/Red_panda" target="_blank">red panda!</a>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -31,7 +31,7 @@
 
 ![Snake animation](https://github.com/dutofanim/dutofanim/blob/output/github-contribution-grid-snake.svg)
 
-## ⭐️ &nbsp;Social Links
+## :star: &nbsp;Social Links
 
 <p align="left" style="background:purple">
 <a href="https://codepen.io/dutofanim" target="_blank">
@@ -51,4 +51,4 @@
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=etofanim&layout=wide" />
+<img width="530em" src="https://github-readme-twitter-gazf.vercel.app/api?id=etofanim&layout=wide" />
