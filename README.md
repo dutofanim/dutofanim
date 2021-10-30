@@ -37,6 +37,9 @@
 <a href="https://codepen.io/dutofanim" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dutofanim-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
+<a href="https://www.codewars.com/users/dutofanim" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-@etofanim-05122A?style=flat&logo=codewars" alt="codewars"/>
+</a>
 <a href="https://twitter.com/etofanim" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-@etofanim-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
@@ -45,9 +48,6 @@
 </a>
 <a href="https://instagram.com/etofanim" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-etofanim-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/dutofanim" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-etofanim-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
