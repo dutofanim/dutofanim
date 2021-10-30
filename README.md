@@ -24,6 +24,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
+![Snake animation](https://github.com/dutofanim/dutofanim/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=dutofanim&show_icons=true&theme=blueberry" alt="dutofanim's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutofanim&layout=compact&theme=blueberry" alt="dutofanim's most languages"/>
