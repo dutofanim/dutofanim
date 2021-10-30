@@ -11,7 +11,7 @@
 
 - :speech_balloon: The __best things__ in life __are not things__
 
-- :zap: Fun fact: The Firefox logo isn't a fox… it's a <a href="https://en.wikipedia.org/wiki/Red_panda" target="_blank">red panda!</a>
+- :zap: Fun fact: The Firefox logo isn't a fox… it's a <a href="https://www.freelogodesign.org/blog/2019/06/14/the-story-behind-the-mozilla-firefox-logo" target="_blank">red panda!</a>
 
 
 ## 🛠 &nbsp;Tech Stack
