@@ -1,17 +1,17 @@
 
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/dutofanim/dcec7a72c890c07fb681759197bd8398/raw/5e06ebfe9d84082c6d50a279db9be2046857fbad/nlwcard.svg"/>
+<img align="right" height="350em" src="https://raw.githubusercontent.com/gist/dutofanim/dcec7a72c890c07fb681759197bd8398/raw/5e06ebfe9d84082c6d50a279db9be2046857fbad/nlwcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Eduardo Tofanim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dutofanim&color=blue" alt="Profile views" /> </p>
 
-- 🔥 Web Developer student & focused on helping people start programming 
+- 🔥 Future Software developer 
 
 - 🔭 Currently studying at [Rocketseat](https://github.com/Rocketseat)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/dutofanim)
 
-- 💬 I talk about anything, but **I like nerdy things**
+- 💬 The __best things__ in life __are not things__
 
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fun fact: The Firefox logo isn't a fox… it's a <a href="https://en.wikipedia.org/wiki/Red_panda" target="_blank">red panda!</a>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -23,13 +23,13 @@
 - ![C lang](https://img.shields.io/badge/-%22C%22%20Language-05122A?style=flat&logo=c) ![ShellScript](https://img.shields.io/badge/-Shellscript-05122A?style=flat&logo=shell) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
+<br>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dutofanim&show_icons=true&theme=blueberry" alt="dutofanim's stats"/>
+<br>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutofanim&layout=compact&theme=blueberry" alt="dutofanim's most languages"/>
+<br>
 
 ![Snake animation](https://github.com/dutofanim/dutofanim/blob/output/github-contribution-grid-snake.svg)
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dutofanim&show_icons=true&theme=blueberry" alt="dutofanim's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutofanim&layout=compact&theme=blueberry" alt="dutofanim's most languages"/>
-</p>
 
 ## ⭐️ &nbsp;Social Links
 
