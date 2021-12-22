@@ -51,4 +51,4 @@
 </a>
 </p>
 
-<img width="530em" src="https://github-readme-twitter-gazf.vercel.app/api?id=etofanim&layout=wide" />
+<img width="520em" src="https://github-readme-twitter-gazf.vercel.app/api?id=etofanim&layout=wide" />
