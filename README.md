@@ -1,6 +1,6 @@
 
 <img align="right" height="350em" src="https://raw.githubusercontent.com/gist/dutofanim/dcec7a72c890c07fb681759197bd8398/raw/5e06ebfe9d84082c6d50a279db9be2046857fbad/nlwcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Eduardo Tofanim</h1>
+<h1 align="left">Hello, I'm Carlos Eduardo Tofanim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dutofanim&color=blue" alt="Profile views" /> </p>
 
 - :computer: Computer engineer & Future Software developer :sunny:
