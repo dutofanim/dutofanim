@@ -3,7 +3,7 @@
 <h1 align="left">Hello, I'm Carlos Eduardo Tofanim</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dutofanim&color=blue" alt="Profile views" /> </p>
 
-- :computer: Computer engineer & Future Software developer :sunny:
+- :computer: Computer engineer & Software developer :sunny:
 
 - :school_satchel: Currently studying at <img src="https://baltaio.blob.core.windows.net/static/images/icons/favicon.ico?v1" alt="MarineGEO circle logo" style="height: 15px; width:15px;"/> [balta.io](https://balta.io/)  and [Rocketseat :rocket:](https://www.rocketseat.com.br/)
 
